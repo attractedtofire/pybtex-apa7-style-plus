@@ -1,9 +1,12 @@
 [tool.poetry]
-name = "pybtex-apa7-style_pb0.25plus"
+name = "pybtex-apa7-style_pb0.25"
 version = "0.1.3"
-description = "Provides APA7 style for Pybtex"
+description = "Provides APA7 style for Pybtex. updated for pybtex ^0.25"
 readme = "README.md"
-authors = ["Jürgen Schörflinger"]
+authors = [
+    "Chris Proctor <github.com@accounts.chrisproctor.net>", 
+    "Jürgen Schörflinger <schoerflinger.juergen.5j@kyoto-u.ac.jp",
+]
 homepage = "https://github.com/attractedtofire/pybtex-apa7-style_pb0.25plus"
 repository = "https://github.com/attractedtofire/pybtex-apa7-style_pb0.25plus"
 license = "MIT"
