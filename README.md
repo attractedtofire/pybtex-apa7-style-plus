@@ -1,6 +1,6 @@
 # APA7 Style for Pybtex
 
-*This is a fork of [naeka's pybtex-apa-style](https://github.com/naeka/pybtex-apa-style), which targeted APA6*.
+*This is a fork of [cproctor's pybtex-apa7-style](https://github.com/cproctor/pybtex-apa7-style), with updated dependancy statements to allow using pybtex 0.25.x. 
 
 This plugin provides [APA7](https://apastyle.apa.org/) style for Pybtex.
 
