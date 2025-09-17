@@ -7,8 +7,8 @@ authors = [
     "Chris Proctor <github.com@accounts.chrisproctor.net>", 
     "Jürgen Schörflinger <schoerflinger.juergen.5j@kyoto-u.ac.jp",
 ]
-homepage = "https://github.com/attractedtofire/pybtex-apa7-style_pb0.25plus"
-repository = "https://github.com/attractedtofire/pybtex-apa7-style_pb0.25plus"
+homepage = "https://github.com/attractedtofire/pybtex-apa7-style_pb0.25"
+repository = "https://github.com/attractedtofire/pybtex-apa7-style_pb0.25"
 license = "MIT"
 classifiers = [
     "Operating System :: OS Independent",
